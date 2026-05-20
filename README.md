@@ -89,12 +89,9 @@ I enjoy the space where research and engineering meet: taking a promising idea, 
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abhijatchaturvedi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/abhijatchaturvedi"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://abhijatchaturvedi.github.io"><img src="https://img.shields.io/badge/Website-24292F?logo=googlechrome&logoColor=white" alt="Website"></a>
-<a href="https://scholar.google.com/citations?user=K-EL0PQAAAAJ"><img src="https://img.shields.io/badge/Scholar-4285F4?logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-<a href="https://abhijatchaturvedi.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
-<a href="mailto:abhijatchaturvedi@gmail.com"><img src="https://img.shields.io/badge/Email-abhijatchaturvedi%40gmail.com-red" alt="Email"></a>
+<a href="https://www.linkedin.com/in/itvikasverma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/itvikasverma"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:vermavikas0880@gmail.com"><img src="https://img.shields.io/badge/Email-vermavikas0880%40gmail.com-red" alt="Email"></a>
 
 </div>
 
