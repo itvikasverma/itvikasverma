@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:075E63,100:B8592D&text=Abhijat%20Chaturvedi&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=46&desc=Senior%20AI%20Lead%20%7C%20Applied%20AI%20Scientist%20%7C%20Machine%20Learning%20Engineer&descAlign=50&descAlignY=60&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:075E63,100:B8592D&text=Vikas%20Verma&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=46&desc=Senior%20AI%20Lead%20%7C%20Applied%20AI%20Scientist%20%7C%20Machine%20Learning%20Engineer&descAlign=50&descAlignY=60&animation=fadeIn)
 
-# Hi, I am Abhijat Chaturvedi 👋
+# Hi, I am Vikas Verma 👋
 
 ### 🧠 Senior AI Lead | 🔬 Applied AI Scientist | 🤖 Machine Learning Engineer
 
