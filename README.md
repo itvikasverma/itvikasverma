@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:075E63,100:B8592D&text=Vikas%20Verma&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=46&desc=Senior%20AI%20Lead%20%7C%20Applied%20AI%20Scientist%20%7C%20Machine%20Learning%20Engineer&descAlign=50&descAlignY=60&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:075E63,100:B8592D&text=Vikas%20Verma&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=46&desc=%F0%9F%A7%A0%20AI%2FML%20Engineer%20%7C%20%F0%9F%94%AC%20Generative%20AI%20%7C%20%F0%9F%A4%96%20Computer%20Vision%20%7C%20%F0%9F%93%9A%20RAG%20Systems&descAlign=50&descAlignY=60&animation=fadeIn)
 
 # Hi, I am Vikas Verma 👋
 
