@@ -24,16 +24,14 @@
 
 ## 👨‍💻 About Me
 
-I work as a senior AI lead and applied machine learning scientist with 7+ years of experience across Generative AI, RAG, LLM agents, computer vision, healthcare intelligence, and applied ML systems.
+I work as an AI/ML Engineer with 1.8 years of experience exploring Generative AI, RAG systems, LLM applications, computer vision, and applied machine learning.
 
-I enjoy the space where research and engineering meet: taking a promising idea, testing it honestly, and shaping it into something reliable enough for real users.
+I enjoy learning at the intersection of research and engineering — experimenting with new ideas, building practical solutions, and improving systems that can create real value for users.
 
-- 🔭 Currently working on AI chat systems, knowledge assistants, RAG pipelines, vector search, multimodal workflows, and agent-based systems.
-- 🌱 Interested in reliable LLM applications, practical computer vision, AI product engineering, and healthcare AI.
-- 🛠️ Previously worked on image enhancement, super resolution, image harmonization, recommendation systems, government chatbots, and pandemic dashboards.
-- ✍️ I also write literature on Medium as a personal hobby.
-
----
+* 🔭 Currently working on AI chat systems, knowledge assistants, RAG pipelines, vector search, multimodal workflows, and agent-based systems.
+* 🌱 Interested in reliable LLM applications, practical computer vision, AI product engineering, and healthcare AI.
+* 🛠️ Worked on image enhancement, recommendation systems, AI-powered applications, and chatbot-based workflows during projects and learning.
+* ✍️ I also write literature on Medium as a personal hobby.
 
 ## 🧭 Areas I Work In
 
