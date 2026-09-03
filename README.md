@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-I work as an AI/ML Engineer with 1.8 years of experience exploring Generative AI, RAG systems, LLM applications, computer vision, and applied machine learning.
+I work as an AI/ML Engineer with 1.11 years of experience exploring Generative AI, RAG systems, LLM applications, computer vision, and applied machine learning.
 
 I enjoy learning at the intersection of research and engineering — experimenting with new ideas, building practical solutions, and improving systems that can create real value for users.
 
